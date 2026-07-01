@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @anugyajais
-- 👀 I’m interested in ... Java and Python
-- 🌱 I’m currently learning ... Internet Programming
-- 💞️ I’m looking to collaborate with other fellow learners as a novice in the world of coding 
-- 📫 How to reach me ... email me at jaiswalanugya09.aj@gmail.com
+👋 Hi, I'm Anugya.
 
-<!---
-anugyajais/anugyajais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Interested in backend development, databases, and data engineering.
+- Currently learning data engineering, distributed systems, and system design.
+- Working with Python, Django, Flask, PostgreSQL, and REST APIs.
+- Open to collaborating on interesting projects.
+- Reach me at: anugyarchive@gmail.com
+- LinkedIn: [linkedin.com/in/anugya-jaiswal](https://linkedin.com/in/anugya-jaiswal)
+    
